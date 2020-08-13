@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <React.Fragment>
+    <>
       <header>
           <h1>Кошелек</h1>
           <h2>Калькулятор расходов</h2>
@@ -64,7 +64,7 @@ function App() {
         </div>
       </main>
 
-    </React.Fragment>
+    </>
   );
 }
 
