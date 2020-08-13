@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/calc-money/static/css/main.9e034465.chunk.css",
-    "main.js": "/calc-money/static/js/main.c9d5006b.chunk.js",
-    "main.js.map": "/calc-money/static/js/main.c9d5006b.chunk.js.map",
+    "main.js": "/calc-money/static/js/main.cfad4185.chunk.js",
+    "main.js.map": "/calc-money/static/js/main.cfad4185.chunk.js.map",
     "runtime-main.js": "/calc-money/static/js/runtime-main.b19a42aa.js",
     "runtime-main.js.map": "/calc-money/static/js/runtime-main.b19a42aa.js.map",
     "static/js/2.af1665ec.chunk.js": "/calc-money/static/js/2.af1665ec.chunk.js",
     "static/js/2.af1665ec.chunk.js.map": "/calc-money/static/js/2.af1665ec.chunk.js.map",
     "index.html": "/calc-money/index.html",
-    "precache-manifest.09c1f52b73917b9ad79a5ac54b836ad2.js": "/calc-money/precache-manifest.09c1f52b73917b9ad79a5ac54b836ad2.js",
+    "precache-manifest.a2a06116bbb4624f21bde6ec63b91cb4.js": "/calc-money/precache-manifest.a2a06116bbb4624f21bde6ec63b91cb4.js",
     "service-worker.js": "/calc-money/service-worker.js",
     "static/css/main.9e034465.chunk.css.map": "/calc-money/static/css/main.9e034465.chunk.css.map",
     "static/js/2.af1665ec.chunk.js.LICENSE.txt": "/calc-money/static/js/2.af1665ec.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b19a42aa.js",
     "static/js/2.af1665ec.chunk.js",
     "static/css/main.9e034465.chunk.css",
-    "static/js/main.c9d5006b.chunk.js"
+    "static/js/main.cfad4185.chunk.js"
   ]
 }
