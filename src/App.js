@@ -3,6 +3,7 @@ import Total from './components/total/Total';
 import History from './components/history/History';
 import operation from './components/operation/Operation';
 import Operation from './components/operation/Operation';
+import Widget from './components/Widjet';
 
 function App() {
   return (
@@ -14,9 +15,10 @@ function App() {
 
       <main>
         <div className='container'>
-          <Total />
-          <History />            
-          <Operation />
+         // <Total />
+         // <History />            
+         // <Operation />
+          <Widget />
         </div>
       </main>
 
